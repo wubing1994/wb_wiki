@@ -1,1 +1,1 @@
-<a href='https://github.com/wubing1994'>about me</a>
+<a href='https://github.com/wubing1994/wb_wiki'>about me</a>
