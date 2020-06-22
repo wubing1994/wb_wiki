@@ -1,4 +1,4 @@
-site_name: wb_wiki
-pages:
-- Home: index.md
+site_name: pingzi
+nav:
+    - Home: index.md
 theme: readthedocs
