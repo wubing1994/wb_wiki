@@ -1,4 +1,7 @@
 site_name: pingzi
 nav:
-    - Home: index.md
+    - 首页: index.md
+    - 考研科目介绍: course_introduce.md
+    - 考研科目复习指南: course_review.md
+    - 关于文档: about.md
 theme: readthedocs
