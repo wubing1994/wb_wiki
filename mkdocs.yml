@@ -1,5 +1,6 @@
 site_name: wb_wiki
 pages:
-- Home: index2.md
+- Home: index.md
+- first: index2.md
 - About: about.md
 theme: readthedocs
